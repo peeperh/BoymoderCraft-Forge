@@ -51,11 +51,6 @@ hash = "d48a1ea93de8cd5febb95ba52989d8d9ab4e998cfbdf9c1076a9f2e571d2fcbe"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "35ef939dd24fc39919a5a50c86e28468e1b3a178cdf61e8197dad72601f25ba5"
-metafile = true
-
-[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "729157bf616f1b1e243f26ca367de77ebc19fecda4e0655e74e241838316dd87"
 metafile = true
