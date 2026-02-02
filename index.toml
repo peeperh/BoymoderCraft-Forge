@@ -131,6 +131,11 @@ hash = "3a9126037aa4c6f9f2ca01af14bcb1403cbc11dcbef7637a974b5cf4257b3393"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "17523abe76f282db11e95a033e504c1da3f82ac23a42e169d6b1e4d59b6a18d6"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
@@ -203,11 +208,6 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "57d69a930e8272c52bed5f54d2d645e6e3e7eab14435901a5c70dbb4af4005a4"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-maps-x-waystones.pw.toml"
-hash = "3465f8b50d2e6a32acaddfd3026ba171602ba59628c5dc7c59456fb897a35153"
 metafile = true
 
 [[files]]
