@@ -1,6 +1,6 @@
 name = "Origins: Genders"
 filename = "origins_genders-1.20.1-forge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hHNfOcZE/versions/sDckiDPB/origins_genders-1.20.1-forge.jar"
