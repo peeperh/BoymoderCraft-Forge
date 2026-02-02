@@ -1,0 +1,13 @@
+name = "Origins: Genders"
+filename = "origins_genders-1.20.1-forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hHNfOcZE/versions/sDckiDPB/origins_genders-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "d1f02b71ec1db9e043f135e05969b1d305503d414aacb509854ef5a921021e6f6b1f99ce772d7bf4a15c58b12ed54077d841c22084d1164dffc2c6fd52f55939"
+
+[update]
+[update.modrinth]
+mod-id = "hHNfOcZE"
+version = "sDckiDPB"

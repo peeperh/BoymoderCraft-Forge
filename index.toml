@@ -1,0 +1,156 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "fe46309d954710019e07813bcdc6db2c775b07795f3628cb559610adcb129a9a"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "ccc22ae710d22b2c8e8851c5968f85d32bac9f40ee7ded717df78cbe0cc8dae3"
+metafile = true
+
+[[files]]
+file = "mods/create-estrogen.pw.toml"
+hash = "12eb225906d0765673672188489469155163bc9e289e8b442b04e2b5f5264370"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+metafile = true
+
+[[files]]
+file = "mods/creeper-no-break-blocks.pw.toml"
+hash = "3839f90c71328c9f3dc23aeed3088e41a8de361dbffb593a002df7568ed0c0a4"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
+metafile = true
+
+[[files]]
+file = "mods/cynosure.pw.toml"
+hash = "fcbe3c60d416694da7ecc84daa65cb896282cb5a45447c5c028b6c93534b6a48"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d48a1ea93de8cd5febb95ba52989d8d9ab4e998cfbdf9c1076a9f2e571d2fcbe"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "35ef939dd24fc39919a5a50c86e28468e1b3a178cdf61e8197dad72601f25ba5"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "729157bf616f1b1e243f26ca367de77ebc19fecda4e0655e74e241838316dd87"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "62ef7e92478035b77e996189984e4749b2d876ed0a389977a2670a28f105bfd2"
+metafile = true
+
+[[files]]
+file = "mods/gravestones.pw.toml"
+hash = "8b5908bca77a358572cb25abfd6353a879a0ce640937d085958eeaa67f64af8b"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "9779719134e508c31ef0cb08ed272daef6d3b4a8a5bff07e48f9695e88e5a410"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "29b62d42548542296d9932bcbb8a93ffba0b75b7cc859a67e596aeb1e048ace2"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
+metafile = true
+
+[[files]]
+file = "mods/mcr_blahaj.pw.toml"
+hash = "3a9126037aa4c6f9f2ca01af14bcb1403cbc11dcbef7637a974b5cf4257b3393"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+metafile = true
+
+[[files]]
+file = "mods/origins-gender.pw.toml"
+hash = "1a1fdfa5b21c88f71244db71314e7658023d17d82391f494c1dceb7f00548a09"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "6318cb31d6cb374bc74893907302418da47557cff4bf5490b3e545cd9ee986a4"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "6db079b4b12f1b14243980080879cc40087c3507f3ad25adf97e5f0ce9bb163b"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "f4481788b54b8cc3b31e5f5a726168bb9e1692dd09b5ab6edc4f6bd161f2d092"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "bebe125d02fa223bc7891ce7187cb6873840a19b37f616567dfda9f70d5da12f"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "da60fdeff7103d9c04ece03d319a28b9c899dc8b30eb8f4c14d398944dc34aeb"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "89f2e05f2ca0bea0df3374cb7b3d862f9209a01d7325e69c5eb98f0218594d47"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "42d13af643345d229b9d3a08b5e2a25d8fb1ce8ebead2b3431a70346ca652e94"
+metafile = true

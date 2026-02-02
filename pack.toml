@@ -1,0 +1,12 @@
+name = "boymodercraft forge"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9f70a5aa0bd73263d9e2e35d6bb5039fa78eafa0ece0c429d59afd8875913e82"
+
+[versions]
+forge = "47.4.16"
+minecraft = "1.20.1"
