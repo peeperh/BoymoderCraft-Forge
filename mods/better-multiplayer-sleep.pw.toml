@@ -1,0 +1,13 @@
+name = "Better Multiplayer Sleep"
+filename = "BetterMultiplayerSleep.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "491b276bbd7e41fe2d62b225a426764afb3d6363"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7433442
+project-id = 1423693

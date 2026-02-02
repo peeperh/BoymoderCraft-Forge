@@ -6,6 +6,16 @@ hash = "fe46309d954710019e07813bcdc6db2c775b07795f3628cb559610adcb129a9a"
 metafile = true
 
 [[files]]
+file = "mods/better-multiplayer-sleep.pw.toml"
+hash = "ced4558f0f0c5ca833ced02865269fa5f65850d85b9143a4e5a72de465b93de8"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "da069e723737ae49203f7572eb774be0fd21f5f083ce7a7ee1bed25916befca8"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "e5df83a3dd1686106741d1d61da5869aed0537c2931a40234e1b3bd2d09e1971"
 metafile = true
@@ -18,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "ccc22ae710d22b2c8e8851c5968f85d32bac9f40ee7ded717df78cbe0cc8dae3"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
 metafile = true
 
 [[files]]
@@ -67,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/estrogen.pw.toml"
-hash = "729157bf616f1b1e243f26ca367de77ebc19fecda4e0655e74e241838316dd87"
+hash = "bc8edd63c801209c99e7e5d184d77c3cf61ed0183fb04aca50bdf5ad0a5c8623"
 metafile = true
 
 [[files]]
@@ -131,8 +146,23 @@ hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
+file = "mods/origins-classes-forge.pw.toml"
+hash = "8bcac14e9d9de7789277a7c48b7c05c3f79618dfee5c6e7002c165dfcdae58f2"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "cb91a483997feae40c3edfc9d5a06dc44fdf2f562a62f065834e9e1a6a1c7f8f"
+metafile = true
+
+[[files]]
 file = "mods/origins-gender.pw.toml"
 hash = "1a1fdfa5b21c88f71244db71314e7658023d17d82391f494c1dceb7f00548a09"
+metafile = true
+
+[[files]]
+file = "mods/origins-umbrellas.pw.toml"
+hash = "428fa517526bd9fbbccc7cbb523f6ed7563458565e9444ba35b640899ed2d40a"
 metafile = true
 
 [[files]]
@@ -161,8 +191,23 @@ hash = "bebe125d02fa223bc7891ce7187cb6873840a19b37f616567dfda9f70d5da12f"
 metafile = true
 
 [[files]]
+file = "mods/tabinfo.pw.toml"
+hash = "41908ee4875fa091d74628659806fa3a28fb41753d884e971f97dcceba032328"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "da60fdeff7103d9c04ece03d319a28b9c899dc8b30eb8f4c14d398944dc34aeb"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "57d69a930e8272c52bed5f54d2d645e6e3e7eab14435901a5c70dbb4af4005a4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-maps-x-waystones.pw.toml"
+hash = "3465f8b50d2e6a32acaddfd3026ba171602ba59628c5dc7c59456fb897a35153"
 metafile = true
 
 [[files]]
@@ -173,4 +218,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "42d13af643345d229b9d3a08b5e2a25d8fb1ce8ebead2b3431a70346ca652e94"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
 metafile = true

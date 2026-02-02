@@ -1,0 +1,13 @@
+name = "Tab Info"
+filename = "tabinfo-1.1.2 forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e39bdda591cc2a993ba9243c5b88e839c4bfe50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7445915
+project-id = 1420609
