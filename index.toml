@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/amcdb.pw.toml"
+hash = "21ceb4ab833315e9a633516092c04d83217191a7541ad7fede38dd510d28b7f9"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "fe46309d954710019e07813bcdc6db2c775b07795f3628cb559610adcb129a9a"
 metafile = true
@@ -224,3 +229,7 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined.toml"
+hash = "3d5c644296c4b3711272eab5de9d10e87cc227782a6fe0f6bce14955a7cbffcc"
