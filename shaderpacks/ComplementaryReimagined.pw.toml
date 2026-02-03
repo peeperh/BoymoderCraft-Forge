@@ -1,8 +1,0 @@
-name = "Complementary Reimagined"
-filename = "ComplementaryReimagined_r5.6.1.zip"
-side = "both"
-
-[download]
-url = "https://www.curseforge.com/minecraft/shaders/complementary-reimagined/download/7090226"
-hash-format = "sha256"
-hash = "33153747d25fbee470acb42ccf4f26b03cc551bb900d4c6d3389b5500dd84839"

@@ -224,7 +224,3 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
 metafile = true
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined.toml"
-hash = "3d5c644296c4b3711272eab5de9d10e87cc227782a6fe0f6bce14955a7cbffcc"
