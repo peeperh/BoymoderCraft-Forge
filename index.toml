@@ -1,6 +1,46 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "6f864eef65f9a38f57eb0cc6fc71469b36ea70444a10c3e27502d617c5eaf917"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "0502e2b33b08fe5920ff1ea61d3cd3c86d9e93ff234af56088c63dff4c189733"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "edf6b8a4b3daa8579920fd7d4bcf08898465eab1c31f8906f8bf3bba1bdda84a"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "44505ec6c8d7ac5948b3f192cff3db191b07c4d39d501ce3af916006cda3c5a6"
+metafile = true
+
+[[files]]
+file = "mods/ars-technica.pw.toml"
+hash = "f74d674d172fb27b93f1738f092a2d6b2d4cecc578656f9357886b8e13fecc35"
+metafile = true
+
+[[files]]
+file = "mods/backport-copper-age.pw.toml"
+hash = "fe040e6cd7b69888e9070ecef8f702bb111bf7771547cfac5ace5eedc023e82b"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "fe46309d954710019e07813bcdc6db2c775b07795f3628cb559610adcb129a9a"
 metafile = true
@@ -23,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "5a4b03567f23fe0aac7806bd7cc9734138bf5fc098e98c1bb552d5b288bef258"
 metafile = true
 
 [[files]]
@@ -111,6 +156,11 @@ hash = "8b5908bca77a358572cb25abfd6353a879a0ce640937d085958eeaa67f64af8b"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "82f389d06c0e19d2ffcd75d5d85e0d9f09ec17178b8dd3e5afe9350a271e0443"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "9779719134e508c31ef0cb08ed272daef6d3b4a8a5bff07e48f9695e88e5a410"
 metafile = true
@@ -131,6 +181,11 @@ hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
 metafile = true
 
 [[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "e3b7a1a0ed3353dead103974c5249ddfcab3e70a1c77fab5fd3a47b19b4ba26b"
+metafile = true
+
+[[files]]
 file = "mods/mcr_blahaj.pw.toml"
 hash = "3a9126037aa4c6f9f2ca01af14bcb1403cbc11dcbef7637a974b5cf4257b3393"
 metafile = true
@@ -148,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "50c9e25cecd708b2f4a986f8bb3c531cdbd7db1baade3520f1bbb9cd96899d81"
 metafile = true
 
 [[files]]
@@ -181,6 +241,16 @@ hash = "6318cb31d6cb374bc74893907302418da47557cff4bf5490b3e545cd9ee986a4"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "d22e0f9b365a9b45752dd45d5f09f3c2e67f3af048f597a9597547bec4e3ff98"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "3127e65df923d6a22eb568393d2e1db7742cce6a5dda653f376f1b5c51979ac9"
+metafile = true
+
+[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "2bcee75d08b33dd6506b7cd3f67ea9d0d2c1bf14e26728fa8e12ef19c895b165"
 metafile = true
@@ -203,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/tabinfo.pw.toml"
 hash = "41908ee4875fa091d74628659806fa3a28fb41753d884e971f97dcceba032328"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "94e65787afd8c85dd225ca30e4ea8fe9714be7fd14773c39a909022706a2f38f"
 metafile = true
 
 [[files]]
