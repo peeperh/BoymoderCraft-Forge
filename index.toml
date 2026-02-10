@@ -71,6 +71,11 @@ hash = "5a4b03567f23fe0aac7806bd7cc9734138bf5fc098e98c1bb552d5b288bef258"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "e2f5c24b45c5f89edf427e124ff68d9ac776c4dfa59d8f124a512c69e0bfbabc"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "0621007244610a61d09b567870101acc836b84bf965ff4ce6538d44140bcbffb"
 metafile = true
@@ -161,6 +166,11 @@ hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "82c1bd758e0562f94f461b297930876b64c2e99feea47b3815efb3da02e0a059"
+metafile = true
+
+[[files]]
 file = "mods/gravestones.pw.toml"
 hash = "8b5908bca77a358572cb25abfd6353a879a0ce640937d085958eeaa67f64af8b"
 metafile = true
@@ -173,6 +183,16 @@ metafile = true
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "9779719134e508c31ef0cb08ed272daef6d3b4a8a5bff07e48f9695e88e5a410"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "140a929fda55621de5a03378f7478f587e0a1e912a3e46815fa7305070d2c71c"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "8f359d190506a6f824763b8e7c390d9e22204ef11e3ffa5ef980000d17e2c2b6"
 metafile = true
 
 [[files]]
